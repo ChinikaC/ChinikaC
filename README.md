@@ -2,7 +2,7 @@
 
 
 - 🧠 I am a psychology graduate who is currently studying to change careers.
-- 🥞 I now aspire to become a <b>Full Stack Software Engineer. 🥞</b> 
+- 🥞 I now aspire to become a <b>Full Stack Software Engineer.</b> 
 - 💻 I am currently apart of the Bright Network Technology Academy - a Full Stack Software Engineer Training Programme. 
 - 🌐 Programming languages, libaries and frameworks that I am familiar with include: 
   - Java
