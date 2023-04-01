@@ -1,6 +1,5 @@
-## 👋🏽 Hello, My Name is Chinika
+## 👋🏽 Hello, my name is Chinika
 
-### 👩🏽‍💻 About Me:
 
 - 🧠 I am a psychology graduate who is currently studying to change careers.
 - 🥞 I now aspire to become a <b>Full Stack Software Engineer. 🥞</b> 
