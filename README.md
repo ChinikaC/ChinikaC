@@ -1,16 +1,21 @@
-### Hi there 👋
+## 👋🏽 Hello, My Name is Chinika
 
-<!--
-**ChinikaC/ChinikaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩🏽‍💻 About Me:
 
-Here are some ideas to get you started:
+- 🧠 I am a psychology graduate who is currently studying to change careers.
+- 🥞 I now aspire to become a <b>Full Stack Software Engineer. 🥞</b> 
+- 💻 I am currently apart of the Bright Network Technology Academy - a Full Stack Software Engineer Training Programme. 
+- 🌐 Programming languages, libaries and frameworks that I am familiar with include: 
+  - Java
+  - SQL
+  - HTML
+  - CSS
+  - JavaScript
+  - Spring Boot
+  - React.js
+- 📥 Feel free to reach me through:
+  - <b>Email:</b>  clcharles@hotmail.co.uk 
+  - <b>LinkedIn:</b>  Chinika Charles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>🪂 Fun fact:</b> I did a charity tandem skydive in 2019 and raised £810 by myself.
+
