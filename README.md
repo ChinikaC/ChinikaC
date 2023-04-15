@@ -10,7 +10,6 @@
   - HTML
   - CSS
   - JavaScript
-  - PostgreSQL
   - Spring Boot
   - React.js </b>
 
