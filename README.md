@@ -16,5 +16,5 @@
 - <b>🪂 Fun fact:</b> I did a charity tandem skydive in 2019 and raised £810 by myself.
 - 📥 Feel free to reach me through:
   - <b>Email:</b>  clcharles@hotmail.co.uk 
-  - <b>LinkedIn:</b>  Chinika Charles
+  - <b>LinkedIn:</b>  https://www.linkedin.com/in/chinika-c/
 
