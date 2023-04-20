@@ -3,7 +3,7 @@
 
 - 🧠 I graduated in psychology from Queen Mary University of London.
 - 🥞 I am currently transitioning into technology and aspire to become a <b>Full Stack Software Engineer.</b> 
-- 💻 I have recently graduated from the Bright Network Technology Academy - a 12-week Full Stack Software Engineer Training Bootcamp. 
+- 💻 I have recently graduated from the Bright Network Technology Academy - a 12-week Full Stack Software Engineering Training Bootcamp. 
 - 🌐 Programming languages, libaries and frameworks that I am familiar with include: 
   - <b> Java
   - SQL
