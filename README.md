@@ -11,7 +11,10 @@
   - CSS
   - JavaScript
   - Spring Boot
-  - React.js </b>
+  - React.js 
+  - PostgreSQL 
+  - Git
+  - Github </b>
 
 - <b>🪂 Fun fact:</b> I did a charity tandem skydive in 2019 and raised £810 by myself.
 - 📥 Feel free to reach me through:
