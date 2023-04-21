@@ -11,7 +11,7 @@
   - CSS
   - JavaScript
   - Spring Boot
-  - React.js 
+  - React 
   - PostgreSQL 
   - Git </b>
 
