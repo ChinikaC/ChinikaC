@@ -7,12 +7,12 @@
 - 🌐 Programming languages, libaries and frameworks that I am familiar with include: 
   - <b> Java
   - SQL
+  - PostgreSQL
   - HTML
   - CSS
   - JavaScript
   - Spring Boot
-  - React 
-  - PostgreSQL  
+  - React   
   - Jest
   - JUnit 
   - Git </b>
