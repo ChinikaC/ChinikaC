@@ -19,7 +19,8 @@
   - Git
   - Command Line
   - Postman
-  - Postico </b>
+  - Postico
+  - Kanban </b>
 
 - <b>🪂 Fun fact:</b> I did a charity tandem skydive in 2019 and raised £810 by myself.
 - 📥 Feel free to reach me through:
