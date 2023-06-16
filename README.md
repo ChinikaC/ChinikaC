@@ -4,7 +4,7 @@
 - 🧠 I graduated in psychology from Queen Mary University of London.
 - 🥞 I am currently transitioning into technology and aspire to become a <b>Full Stack Software Engineer.</b> 
 - 💻 I have recently graduated from the Bright Network Technology Academy - a 12-week Full Stack Software Engineering Training Bootcamp. 
-- 🌐 Programming languages, libaries and frameworks that I am familiar with include: 
+- 🌐 The programming languages, libaries, frameworks, technologies and tools that I am familiar with include: 
   - <b> Java
   - SQL
   - PostgreSQL
@@ -15,7 +15,9 @@
   - React   
   - Jest
   - JUnit 
-  - Git </b>
+  - Git
+  - Node.js
+  - Command Line </b>
 
 - <b>🪂 Fun fact:</b> I did a charity tandem skydive in 2019 and raised £810 by myself.
 - 📥 Feel free to reach me through:
