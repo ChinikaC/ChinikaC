@@ -12,11 +12,13 @@
   - CSS
   - JavaScript
   - Spring Boot
-  - React   
+  - React
+  - Node.js
   - Jest
   - JUnit 
   - Git
-  - Node.js
+  - Postman
+  - Postico
   - Command Line </b>
 
 - <b>🪂 Fun fact:</b> I did a charity tandem skydive in 2019 and raised £810 by myself.
