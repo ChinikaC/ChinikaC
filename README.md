@@ -12,7 +12,7 @@
   - CSS
   - JavaScript
   - Spring Boot
-  - React
+  - React.js
   - Node.js
   - Jest
   - JUnit 
