@@ -2,7 +2,7 @@
 
 
 - 🧠 I graduated in psychology from Queen Mary University of London.
-- 🥞 I am currently transitioning into technology and aspire to become a <b>Full Stack Software Engineer.</b> 
+- 🥞 I am currently transitioning into technology and aspire to become a <b>Software Engineer.</b> 
 - 💻 I have recently graduated from the Bright Network Technology Academy - a 12-week Full Stack Software Engineering Training Bootcamp. 
 - 🌐 The programming languages, libaries, frameworks, technologies and tools that I am familiar with include: 
   - <b> Java
