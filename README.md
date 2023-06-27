@@ -17,7 +17,7 @@
   - Jest
   - JUnit 
   - Git
-  - Terminal
+  - Command Line
   - Postman
   - Postico</b>
 
