@@ -20,7 +20,7 @@
   - Command Line
   - Postman
   - Postico
-  - RESTFul API
+  - RESTful API
   - Agile
   - Object-Oriented Programming (OOP)
   - Test Driven Development (TDD) </b>
