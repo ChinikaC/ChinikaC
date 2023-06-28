@@ -21,9 +21,9 @@
   - Postman
   - Postico
   - RESTful API
-  - Agile
   - Object-Oriented Programming (OOP)
-  - Test Driven Development (TDD) </b>
+  - Test Driven Development (TDD)
+  - Agile </b>
 
 - <b>🪂 Fun fact:</b> I did a charity tandem skydive in 2019 and raised £810 by myself.
 - 📥 Feel free to reach me through:
