@@ -14,8 +14,8 @@
   - Spring Boot
   - React.js
   - Node.js
-  - Jest
-  - JUnit 
+  - JUnit
+  - Jest 
   - Git
   - Command Line
   - Postman
