@@ -17,13 +17,13 @@
   - JUnit
   - Jest 
   - Git
-  - Terminal
-  - Postman
-  - Postico
+  - Command Line
   - RESTful API
   - Object-Oriented Programming (OOP)
   - Test Driven Development (TDD)
   - Agile Methodology
+  - Postman
+  - Postico
   - VS Code
   - Intellij </b>
 
