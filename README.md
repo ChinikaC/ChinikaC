@@ -17,7 +17,7 @@
   - JUnit
   - Jest 
   - Git
-  - Command Line
+  - Terminal
   - Postman
   - Postico
   - RESTful API
