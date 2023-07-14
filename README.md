@@ -17,7 +17,7 @@
   - JUnit
   - Jest 
   - Git
-  - Command Line
+  - Terminal
   - RESTful API
   - Object-Oriented Programming (OOP)
   - Test Driven Development (TDD)
