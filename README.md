@@ -27,7 +27,7 @@
   - VS Code
   - IntelliJ IDEA </b>
   
-  - 💼 I am now looking for an early career role or an internship in Software Engineering/Software Development.
+- 💼 I am now looking for an early career role or an internship in Software Engineering/Software Development.
 
 - <b>🪂 Fun fact:</b> I did a charity tandem skydive in 2019 and raised £810 by myself.
 - 📥 Feel free to reach me through:
