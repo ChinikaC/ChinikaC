@@ -19,8 +19,8 @@
   - Git
   - Terminal
   - RESTful API
-  - Object-Oriented Programming (OOP)
-  - Test Driven Development (TDD)
+  - Object-Oriented Programming 
+  - Test Driven Development 
   - Agile 
   - Postman
   - Postico
