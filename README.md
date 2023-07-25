@@ -21,7 +21,7 @@
   - RESTful API
   - Object-Oriented Programming 
   - Test Driven Development 
-  - Agile Methodology
+  - Agile 
   - Postman
   - Postico
   - VS Code
