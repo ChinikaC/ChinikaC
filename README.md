@@ -14,7 +14,7 @@
   - Spring Boot
   - React.js
   - Node.js
-  - Material UI
+  - Material UI (MUI)
   - JUnit
   - Jest 
   - Git
