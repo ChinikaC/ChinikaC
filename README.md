@@ -12,7 +12,7 @@
   - CSS
   - JavaScript
   - Spring Boot
-  - React.js
+  - React
   - Node.js
   - Material UI (MUI)
   - JUnit
