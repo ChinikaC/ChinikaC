@@ -22,7 +22,7 @@
   - RESTful API
   - Object-Oriented Programming 
   - Test Driven Development 
-  - Agile 
+  - Agile Methodology
   - Postman
   - Postico
   - VS Code
