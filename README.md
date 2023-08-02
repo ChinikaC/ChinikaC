@@ -15,6 +15,7 @@
   - React
   - Node.js
   - Material UI (MUI)
+  - Unit Testing
   - JUnit
   - Jest 
   - Git
